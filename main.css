@@ -1,0 +1,42 @@
+body{
+  background-color: #c1e7eb;
+}
+
+.container{
+  text-align: center;
+  font-size: 2em;
+  font-family: "Montserrat", sans-serif;
+}
+
+#smiley{
+  width: 25%;
+}
+
+.id{
+  font-style: italic;
+}
+
+label{
+  width: 100%;
+  border: none;
+  background: none;
+  outline: none;
+  font-size: 18px;
+  margin-top: 2px;
+}
+
+input{
+  font-size:18px;
+  font-style: italic;
+}
+
+h1{
+  font-size: 1em;
+}
+
+h3{
+  font-size: .5em;
+  opacity: 0.4;
+  font-style: oblique;
+  margin-top: 20px;
+}
